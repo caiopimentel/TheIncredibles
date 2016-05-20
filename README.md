@@ -7,10 +7,6 @@ The software was planned in a way to, first, present a general overview, showing
 The whole software was developed on Processing and as an exercise in 
 programming, without using any libraries. 
 
-Its was decided to make the illustrations in a more ludic style, and they’re rich in small little details that help establish the narrative in a way that was clear, but still fun and interesting.
-
-The texts follow the line as the illustrations, giving the character a voice that is both  casual and charismatic. 
-
 Version: TheIncredibles_E27
 
 # Authors:
@@ -21,3 +17,4 @@ Version: TheIncredibles_E27
 
 More about the project? Want to see it running?
 -----------
+https://www.behance.net/gallery/37347243/The-Incredibles-Cinematic-Narrative
