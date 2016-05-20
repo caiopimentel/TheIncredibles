@@ -10,4 +10,4 @@ Version: TheIncredibles_E27
 - Text: Hellen Jardim
 
 More about the project
-—---------—
+-----------
